@@ -98,7 +98,7 @@ class ShopingPage extends StatelessWidget {
                           ),
                           color: Colors.transparent,
                           onPressed: () {
-                            Navigator.push(
+                            Navigator.push( 
                               context,
                               MaterialPageRoute(
                                 builder: (context) => HomeScreen(),
